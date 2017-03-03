@@ -10,4 +10,4 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[5. Longest Palindromic Substring](5. Longest Palindromic Substring/src/longest_palindromic_substring)|Medium|[5. Longest Palindromic Substring](5. Longest Palindromic Substring/5. Longest Palindromic Substring.txt)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[6. ZigZag Conversion](6. ZigZag Conversion/src/zigzag_conversion)|Medium|[6. ZigZag Conversion](6. ZigZag Conversion/6. ZigZag Conversion.txt)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[7. Reverse Integer](7. Reverse Integer/src/reverse_integer)|Easy|[7. Reverse Integer](7. Reverse Integer/7. Reverse Integer.txt)|
-
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[8. String to Integer (atoi)](8. String to Integer (atoi)/src/string_to_integer_atoi)|Medium|[8. String to Integer (atoi)](8. String to Integer (atoi)/8. String to Integer (atoi).txt)|
