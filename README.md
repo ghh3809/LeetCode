@@ -11,3 +11,4 @@
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[6. ZigZag Conversion](6. ZigZag Conversion/src/zigzag_conversion)|Medium|[6. ZigZag Conversion](6. ZigZag Conversion/6. ZigZag Conversion.txt)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[7. Reverse Integer](7. Reverse Integer/src/reverse_integer)|Easy|[7. Reverse Integer](7. Reverse Integer/7. Reverse Integer.txt)|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[8. String to Integer (atoi)](8. String to Integer (atoi)/src/string_to_integer_atoi)|Medium|[8. String to Integer (atoi)](8. String to Integer (atoi)/8. String to Integer (atoi).txt)|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[9. Palindrome Number](9. Palindrome Number/src/palindrome_number)|Easy|[9. Palindrome Number](9. Palindrome Number/9. Palindrome Number.txt)|
