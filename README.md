@@ -17,3 +17,5 @@
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[12. Integer to Roman](12. Integer to Roman/src/integer_to_roman)|Hard|[12. Integer to Roman](12. Integer to Roman/12. Integer to Roman.txt)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[13. Roman to Integer](13. Roman to Integer/src/roman_to_integer)|Hard|[13. Roman to Integer](13. Roman to Integer/13. Roman to Integer.txt)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[14. Longest Common Prefix](14. Longest Common Prefix/src/longest_common_prefix)|Hard|[14. Longest Common Prefix](14. Longest Common Prefix/14. Longest Common Prefix.txt)|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[20. Valid Parentheses](20. Valid Parentheses/src/valid_parentheses)|Hard|[20. Valid Parentheses](20. Valid Parentheses/20. Valid Parentheses.txt)|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[21. Merge Two Sorted Lists](21. Merge Two Sorted Lists/src/merge_two_sorted_lists)|Hard|[21. Merge Two Sorted Lists](21. Merge Two Sorted Lists/21. Merge Two Sorted Lists.txt)|
