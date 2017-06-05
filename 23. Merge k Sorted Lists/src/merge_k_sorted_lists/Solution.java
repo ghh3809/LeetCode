@@ -1,5 +1,8 @@
 package merge_k_sorted_lists;
 
+import java.util.Comparator;
+import java.util.PriorityQueue;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

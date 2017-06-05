@@ -1,5 +1,8 @@
 package generate_parentheses;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> result = new ArrayList<String>();

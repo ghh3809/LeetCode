@@ -1,11 +1,8 @@
 package longest_palindromic_substring;
 
-import java.util.ArrayList;
-
 public class Solution {
     private int startPosi, endPosi, maxLength = 0;
     public String longestPalindrome(String s) {
-        int maxLength = 0;
         int length = s.length();
         if (length < 2) {
             return s;

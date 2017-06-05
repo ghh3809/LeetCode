@@ -1,5 +1,8 @@
 package letter_combinations_of_a_phone_number;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Solution {
     public List<String> letterCombinations(String digits) {
         List<String> result = new ArrayList<String>();
