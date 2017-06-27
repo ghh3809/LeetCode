@@ -1,0 +1,2 @@
+第1次提交：利用字符出现次数统计数组，自定义类重载hashcode和equals方法，利用HashMap进行实现。
+第2次提交：利用字符排序，讲排序后的String作为Key实现HashMap。
