@@ -66,8 +66,30 @@
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[60. Permutation Sequence](https://github.com/ghh3809/LeetCode/blob/master/60.%20Permutation%20Sequence/src/permutation_sequence/Solution.java)|Medium|[60. Permutation Sequence](https://github.com/ghh3809/LeetCode/blob/master/60.%20Permutation%20Sequence/60.%20Permutation%20Sequence.txt)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|[61. Rotate List](https://github.com/ghh3809/LeetCode/blob/master/61.%20Rotate%20List/src/rotate_list/Solution.java)|Medium|[61. Rotate List](https://github.com/ghh3809/LeetCode/blob/master/61.%20Rotate%20List/61.%20Rotate%20List.txt)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[62. Unique Paths](https://github.com/ghh3809/LeetCode/blob/master/62.%20Unique%20Paths/src/unique_paths/Solution.java)|Medium|[62. Unique Paths](https://github.com/ghh3809/LeetCode/blob/master/62.%20Unique%20Paths/62.%20Unique%20Paths.txt)|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[71. Simplify Path](https://github.com/ghh3809/LeetCode/blob/master/71.%20Simplify%20Path/src/simplify_path/Solution.java)|Medium|[71. Simplify Path](https://github.com/ghh3809/LeetCode/blob/master/71.%20Simplify%20Path/71.%20Simplify%20Path.txt)|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[172. Factorial Trailing Zeroes](https://github.com/ghh3809/LeetCode/blob/master/172.%20Factorial%20Trailing%20Zeroes/src/factorial_trailing_zeroes/Solution.java)|Easy|[172. Factorial Trailing Zeroes](https://github.com/ghh3809/LeetCode/blob/master/172.%20Factorial%20Trailing%20Zeroes/172.%20Factorial%20Trailing%20Zeroes.txt)|
 
 [8.ext1]: https://github.com/ghh3809/LeetCode/blob/master/8.%20String%20to%20Integer%20(atoi)/src/string_to_integer_(atoi)/Solution.java
 
 [8.ext2]: https://github.com/ghh3809/LeetCode/blob/master/8.%20String%20to%20Integer%20(atoi)/8.%20String%20to%20Integer%20(atoi).txt
+
+下面是文件生成示例代码
+
+'''
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s = "71. Simplify Path";
+		String level = "Medium";
+		String index = s.substring(0, 2);
+		String name = s.substring(4);
+		String sMiddle = name.toLowerCase().replace(' ', '-');
+		String sDown = name.toLowerCase().replace(' ', '_').replace('-', '_');
+		String sWeb = name.replace(" ", "%20");
+		System.out.println(sDown);
+		System.out.println("|" + index + "|[" + name + "](https://leetcode.com/problems/" + sMiddle + ")|[" + index + ". " + name + "](https://github.com/ghh3809/LeetCode/blob/master/" + index + ".%20" + sWeb + "/src/" + sDown + "/Solution.java)|" + level + "|[" + index + ". " + name + "](https://github.com/ghh3809/LeetCode/blob/master/" + index + ".%20" + sWeb + "/" + index + ".%20" + sWeb + ".txt)|");
+	}
+
+}
+'''
