@@ -1,6 +1,6 @@
 # LeetCode
 
-个人LeetCode题解（JAVA语言版，从易到难）
+个人LeetCode题解（JAVA语言版，前100题）
 
 | # | 题目 | 解答 | 难度 | 思考 |
 |---| ---- | ---- | ---- | ---- |
@@ -52,7 +52,7 @@
 |46|[Permutations](https://leetcode.com/problems/permutations)|[46. Permutations](https://github.com/ghh3809/LeetCode/blob/master/46.%20Permutations/src/permutations/Solution.java)|Medium|[46. Permutations](https://github.com/ghh3809/LeetCode/blob/master/46.%20Permutations/46.%20Permutations.txt)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[47. Permutations II](https://github.com/ghh3809/LeetCode/blob/master/47.%20Permutations%20II/src/permutations_ii/Solution.java)|Medium|[47. Permutations II](https://github.com/ghh3809/LeetCode/blob/master/47.%20Permutations%20II/47.%20Permutations%20II.txt)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[48. Rotate Image](https://github.com/ghh3809/LeetCode/blob/master/48.%20Rotate%20Image/src/rotate_image/Solution.java)|Medium|[48. Rotate Image](https://github.com/ghh3809/LeetCode/blob/master/48.%20Rotate%20Image/48.%20Rotate%20Image.txt)|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[49. Group Anagrams](https://github.com/ghh3809/LeetCode/blob/master/49.%20Group%20Anagrams/src/group_anagrams/Solution.java)|Easy|[49. Group Anagrams](https://github.com/ghh3809/LeetCode/blob/master/49.%20Group%20Anagrams/49.%20Group%20Anagrams.txt)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[49. Group Anagrams](https://github.com/ghh3809/LeetCode/blob/master/49.%20Group%20Anagrams/src/group_anagrams/Solution.java)|Medium|[49. Group Anagrams](https://github.com/ghh3809/LeetCode/blob/master/49.%20Group%20Anagrams/49.%20Group%20Anagrams.txt)|
 |50|[Powx n](https://leetcode.com/problems/powx-n)|[50. Powx n](https://github.com/ghh3809/LeetCode/blob/master/50.%20Powx%20n/src/powx_n/Solution.java)|Medium|[50. Powx n](https://github.com/ghh3809/LeetCode/blob/master/50.%20Powx%20n/50.%20Powx%20n.txt)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens)|[51. N-Queens](https://github.com/ghh3809/LeetCode/blob/master/51.%20N-Queens/src/n_queens/Solution.java)|Hard|[51. N-Queens](https://github.com/ghh3809/LeetCode/blob/master/51.%20N-Queens/51.%20N-Queens.txt)|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|[52. N-Queens II](https://github.com/ghh3809/LeetCode/blob/master/52.%20N-Queens%20II/src/n_queens_ii/Solution.java)|Hard|[52. N-Queens II](https://github.com/ghh3809/LeetCode/blob/master/52.%20N-Queens%20II/52.%20N-Queens%20II.txt)|
@@ -103,7 +103,7 @@
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string)|[97. Interleaving String](https://github.com/ghh3809/LeetCode/blob/master/97.%20Interleaving%20String/src/interleaving_string/Solution.java)|Hard|[97. Interleaving String](https://github.com/ghh3809/LeetCode/blob/master/97.%20Interleaving%20String/97.%20Interleaving%20String.txt)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[98. Validate Binary Search Tree](https://github.com/ghh3809/LeetCode/blob/master/98.%20Validate%20Binary%20Search%20Tree/src/validate_binary_search_tree/Solution.java)|Medium|[98. Validate Binary Search Tree](https://github.com/ghh3809/LeetCode/blob/master/98.%20Validate%20Binary%20Search%20Tree/98.%20Validate%20Binary%20Search%20Tree.txt)|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[99. Recover Binary Search Tree](https://github.com/ghh3809/LeetCode/blob/master/99.%20Recover%20Binary%20Search%20Tree/src/recover_binary_search_tree/Solution.java)|Hard|[99. Recover Binary Search Tree](https://github.com/ghh3809/LeetCode/blob/master/99.%20Recover%20Binary%20Search%20Tree/99.%20Recover%20Binary%20Search%20Tree.txt)|
-|100|[Same Tree](https://leetcode.com/problems/same-tree)|[100. Same Tree](https://github.com/ghh3809/LeetCode/blob/master/100.%20Same%20Tree/src/same_tree/Solution.java)|Hard|[100. Same Tree](https://github.com/ghh3809/LeetCode/blob/master/100.%20Same%20Tree/100.%20Same%20Tree.txt)|
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|[100. Same Tree](https://github.com/ghh3809/LeetCode/blob/master/100.%20Same%20Tree/src/same_tree/Solution.java)|Easy|[100. Same Tree](https://github.com/ghh3809/LeetCode/blob/master/100.%20Same%20Tree/100.%20Same%20Tree.txt)|
 
 [8.ext1]: https://github.com/ghh3809/LeetCode/blob/master/8.%20String%20to%20Integer%20(atoi)/src/string_to_integer_(atoi)/Solution.java
 
